@@ -12,6 +12,7 @@ body {
 }
 
 .categoria{
+    background: blue;
     padding-left: 20px;
     padding-right: 20px;
 }
