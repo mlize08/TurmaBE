@@ -29,4 +29,9 @@ img {
     overflow-x: auto;
     gap: 10px;
 }
-
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
